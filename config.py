@@ -1,0 +1,7 @@
+TOKEN = "5128567021:AAGYXMhn8DwLCKx_7bdHvCGtqIVkef9Kf4A"
+
+id = 1792833981
+
+
+
+
